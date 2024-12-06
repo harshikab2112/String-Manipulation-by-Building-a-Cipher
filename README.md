@@ -1,5 +1,3 @@
----
-
 # **String Manipulation by Building a Cipher** (FreeCodeCamp)
 
 Welcome to the **String Manipulation by Building a Cipher** project from **FreeCodeCamp**! This project demonstrates how to implement the **Vigenère Cipher** for encryption and decryption, helping you understand string manipulation and basic encryption techniques.
