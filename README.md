@@ -81,7 +81,7 @@ This project provides a **Vigenère Cipher** that encrypts and decrypts messages
 
 ## 📸 **Output Screenshot**
 -Here’s a screenshot of the output from the program:
-"output.png"
+![Output Screenshot](output.png)
 
 ---
 
