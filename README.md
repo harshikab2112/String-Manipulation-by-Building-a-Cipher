@@ -22,7 +22,8 @@ This project is a part of **FreeCodeCamp's** curriculum and aims to teach you fu
 2. [Usage](#usage)
 3. [How It Works](#how-it-works)
 4. [Technologies Used](#technologies-used)
-5. [Contributing](#contributing)
+5. [Output Screenshot](#output-screenshot)
+6. [Contributing](#contributing)
 
 ---
 
@@ -75,6 +76,12 @@ This project provides a **Vigenère Cipher** that encrypts and decrypts messages
 
 - **Python** (for implementing the cipher algorithm)
 - **String Manipulation** (looping through characters and modifying them based on ASCII values)
+
+---
+
+## 📸 **Output Screenshot**
+-Here’s a screenshot of the output from the program:
+"output.png"
 
 ---
 
