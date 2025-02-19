@@ -102,6 +102,6 @@ GitHub: [harshikab2112](https://github.com/harshikab2112)
 
 ---
 
-### 🖤 **Thank You for Checking Out the Project!**
+### 🖤 **Thank You for Checking Out the Project!!**
 
 ---
